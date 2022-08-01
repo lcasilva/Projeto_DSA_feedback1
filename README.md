@@ -1,5 +1,5 @@
-# Projeto_feedback1
-Projeto da Formação Cientista de Dados da Data Science Academy
+# Projeto_feedback1 (Curso Big Data Analytics com R e Azure Machine Learning)
+Projeto da Formação Cientista de Dados da Data Science Academy 
 
 
 Machine Learning em Logística: Prevendo o consumo de energia de carros elétricos
